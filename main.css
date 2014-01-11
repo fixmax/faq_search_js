@@ -1,0 +1,71 @@
+h2{
+	margin: 5px 0 5px 0;
+}
+.faq{
+	background-color: #f9f9f9;
+	border: 1px solid #bdc3c7;
+	width: 950px;
+	margin: auto;
+	padding-right: 15px;
+}
+.faq h1{
+	margin-left: 15px;
+}
+.faq .search{
+	position: relative;
+}
+.faq .search .clin_search{
+	position: absolute;
+	top: 5px;
+	left: 580px;
+	cursor: pointer;
+}
+.faq .search input{
+	height: 28px;
+	width: 550px;
+	font-size: 20px;
+	margin-left: 15px;
+	border: 1px solid #bdc3c7;
+}
+.faq .questions{
+	margin-left: 15px;
+}
+.faq .questions .question{
+	background-color: #ecf0f1;
+	margin-top: 15px;
+}
+.faq .questions .question .title{
+	background-color: #2980b9;
+	color: #fff;
+	padding: 0 0 0 5px;
+	cursor: pointer;
+}
+.faq .questions .question .content{
+	padding-left: 10px;
+}
+.faq .questions .question .content .disc{
+	margin-top: 10px;
+}
+.faq .questions .question .content .keys{
+	margin-top: 10px;
+}
+.faq .questions .question .content .keys .key{
+	background-color: #bdc3c7;
+	color: #ecf0f1;
+	padding: 0px 5px 0px 5px;
+	cursor: pointer;
+}
+.faq .questions .question .content .keys .key:hover{
+	background-color: #8e44ad;
+}
+.faq sel{
+	background-color: #9b59b6;
+	color: #ecf0f1;
+}
+
+.faq .footer_link{
+	background-color: #2c3e50;
+	color: #d9d9d9;
+	border-radius: 10px;
+	padding: 3px 10px 3px 10px;
+}
